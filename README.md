@@ -1,5 +1,5 @@
 # ParkWhere
-Final Project (Lighthouse Labs Web Development Bootcamp)
+> Final Project (Lighthouse Labs Web Development Bootcamp)
 
 ### Main Contributors: [Weidong Li](https://github.com/donny1103), [Paula Barreto](https://github.com/paulabarreto)
 
