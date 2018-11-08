@@ -8,7 +8,7 @@
 
 For this final group project, we created an app called ParkWhere that allows users to find on-street parking information of the city of Toronto. The information is provided by the users themselves so they can add/edit on-street parking information on a map. Users can find on-street parking info based on a given location and a specific time or just with parking rate. This project is at phase 1 and it is an ongoing project. For phase 2, bugs will be fixed with completely new interface. More features will be added such as mobile-friendly, login/signup and more. 
 
-## Current Product
+## Final Product
 
 #### Home Page 
 ![Home Page](https://raw.githubusercontent.com/donny1103/ParkWhere/master/public/screenshot/home.png)
